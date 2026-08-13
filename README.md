@@ -103,50 +103,57 @@ My goal is simple:
 
 ## 🚀 Featured Projects
 
-### 🌱 EduRural
+### 🚌 Real-Time Bus Tracker Application
 
-**Gamified Learning Platform for Rural Students**
+**Real-Time Transportation & ETA Tracking Platform**
 
-A progressive web application designed to make digital education more accessible through offline learning, multilingual support, gamification, quizzes, teacher dashboards, and student progress tracking.
+A real-time bus tracking application designed to provide live vehicle locations and estimated arrival times using real-time communication.
 
-**Stack:** React • TypeScript • Tailwind CSS • Node.js • MongoDB • IndexedDB
+**Key Features:**
+
+* 📍 Live bus location tracking
+* ⚡ Real-time updates using WebSockets
+* 🕐 ETA calculation
+* 🗄️ Scalable database schema
+* ☁️ Deployment pipeline
+
+**Stack:** React • Node.js • Supabase • WebSockets
 
 ---
 
 ### 🧑‍💼 AI HR & Candidate Screening Platform
 
-An AI-powered recruitment platform designed to streamline resume analysis, candidate screening, skill matching, and recruitment workflows.
+**AI-Powered Recruitment & Candidate Matching System**
 
-**Stack:** React • Next.js • Python • AI APIs • Supabase
+An AI-driven recruitment platform designed to automate resume screening and candidate matching while providing secure access control.
 
----
+**Key Features:**
 
-### ⚡ NEXORA
+* 🤖 AI-powered resume screening
+* 🎯 Candidate matching
+* 🔐 JWT authentication
+* 👥 Role-Based Access Control
+* 🧠 OpenAI API integration
 
-A modern agency SaaS platform for managing digital services including software development, UI/UX, branding, social media, data services, photography, videography, and event management.
-
-**Stack:** Next.js • TypeScript • Supabase • Prisma • NextAuth • Tailwind CSS
-
----
-
-### 🛒 Vanya Store
-
-A modern SaaS-powered e-commerce platform for a reusable-products brand, designed around scalable product management, authentication, database-driven workflows, and a premium shopping experience.
-
-**Stack:** Next.js • Supabase • Prisma • NextAuth • Vercel
+**Stack:** React • Node.js • MongoDB • OpenAI API
 
 ---
 
-## 📈 GitHub Analytics
+### 🎟️ Event Management Orchestrator
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivasingh8860&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivasingh8860&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
+**Event Registration & QR-Based Check-In System**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivasingh8860&theme=transparent&hide_border=true" />
-</p>
+An event management platform designed to simplify event registration and provide secure QR-based attendee check-in.
+
+**Key Features:**
+
+* 📝 Event registration
+* 🎫 QR-based check-in
+* 🔐 Secure authentication
+* 🗄️ Relational database design
+* ⚙️ Flask backend
+
+**Stack:** Python • Flask • SQLite
 
 ---
 
